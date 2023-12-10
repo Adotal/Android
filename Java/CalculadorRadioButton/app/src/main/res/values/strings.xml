@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="title_name">Calculadora</string>
+    <string name="txtIn1_name">Valor 1:</string>
+    <string name="txtIn2_name">Valor 2:</string>
+    <string name="button1_name">CALCULAR</string>
+    <string name="label1_name">Resultado:</string>
+    <string name="radbutton1_name">Sumar</string>
+    <string name="radbutton2_name">Restar</string>
+    <string name="radbutton3_name">Multiplicar</string>
+    <string name="radbutton4_name">Dividir</string>
+</resources>

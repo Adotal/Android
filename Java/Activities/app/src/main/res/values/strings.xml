@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="title_name">Log in</string>
+    <string name="txtIn1_name">User:</string>
+    <string name="txtIn2_name">Password:</string>
+    <string name="button1_name">Register</string>
+    <string name="buttonnext_name">Next</string>
+    <string name="buttonback_name">Back</string>
+</resources>

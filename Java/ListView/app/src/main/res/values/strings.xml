@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Aplicacion2</string>
+    <string name="textview1_name">Selecciona un nombre:</string>
+</resources>
