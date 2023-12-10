@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ContactosSharedPreferences</string>
+    <string name="EdtText1_name">Nombre del contacto:</string>
+    <string name="EdtText2_name">Datos del contacto:</string>
+    <string name="Button1_name">GUARDAR</string>
+    <string name="Button2_name">BUSCAR</string>
+</resources>
