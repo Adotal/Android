@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlmacentamientoDatos</string>
+    <string name="txtview_name">BITÁCORA</string>
+    <string name="button1_name">SAVE</string>
+</resources>
