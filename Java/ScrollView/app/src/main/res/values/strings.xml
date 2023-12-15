@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ScrollView</string>
+    <string name="banana_name">Banana</string>
+    <string name="cherries_name">Cherries</string>
+    <string name="raspberries_name">Raspberries</string>
+    <string name="strawberries_name">Strawnerries</string>
+    <string name="kiwis_name">Kiwis</string>
+    <string name="mangos_name">Mangos</string>
+    <string name="apples_name">Apples</string>
+    <string name="melon_name">Melon</string>
+    <string name="oranges_name">Oranges</string>
+    <string name="pearsname">Pears</string>
+    <string name="pineapple_name">Pineapple</string>
+    <string name="watermelon_name">Wartermelon</string>
+    <string name="grapes_name">Grapes</string>
+    <string name="blackBerries_name">Blackberries</string>
+</resources>

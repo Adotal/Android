@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <ScrollView
+        android:id="@+id/ScrollView1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <ImageButton
+                android:id="@+id/ButtonBananas"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#9E2B2B"
+                android:contentDescription="@string/banana_name"
+                android:onClick="Selection"
+                android:src="@drawable/bananas" />
+
+            <ImageButton
+                android:id="@+id/ButtonCherries"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#EAD151"
+                android:contentDescription="@string/cherries_name"
+                android:onClick="Selection"
+                android:src="@drawable/cerezas" />
+
+            <ImageButton
+                android:id="@+id/ButtonRaspberries"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#000000"
+                android:contentDescription="@string/raspberries_name"
+                android:onClick="Selection"
+                android:src="@drawable/frambuesas" />
+
+            <ImageButton
+                android:id="@+id/ButtonStrawberries"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#924EBC"
+                android:contentDescription="@string/strawberries_name"
+                android:onClick="Selection"
+                android:src="@drawable/fresas" />
+
+            <ImageButton
+                android:id="@+id/ButtonKiwis"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#9E2B2B"
+                android:contentDescription="@string/kiwis_name"
+                android:onClick="Selection"
+                android:src="@drawable/kiwis" />
+
+            <ImageButton
+                android:id="@+id/ButtonMangos"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#EAD151"
+                android:contentDescription="@string/mangos_name"
+                android:onClick="Selection"
+                android:src="@drawable/mangos" />
+
+            <ImageButton
+                android:id="@+id/ButtonAples"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#000000"
+                android:contentDescription="@string/apples_name"
+                android:onClick="Selection"
+                android:src="@drawable/manzanas" />
+
+            <ImageButton
+                android:id="@+id/ButtonMelon"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#924EBC"
+                android:contentDescription="@string/melon_name"
+                android:onClick="Selection"
+                android:src="@drawable/melon" />
+
+            <ImageButton
+                android:id="@+id/ButtonOranges"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#9E2B2B"
+                android:contentDescription="@string/oranges_name"
+                android:onClick="Selection"
+                android:src="@drawable/naranjas" />
+
+            <ImageButton
+                android:id="@+id/ButtonPears"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#EAD151"
+                android:contentDescription="@string/pearsname"
+                android:onClick="Selection"
+                android:src="@drawable/pera" />
+
+            <ImageButton
+                android:id="@+id/ButtonPineapple"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#000000"
+                android:contentDescription="@string/pineapple_name"
+                android:onClick="Selection"
+                android:src="@drawable/pina" />
+
+            <ImageButton
+                android:id="@+id/ButtonWatermelon"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#924EBC"
+                android:contentDescription="@string/watermelon_name"
+                android:onClick="Selection"
+                android:src="@drawable/sandia" />
+
+            <ImageButton
+                android:id="@+id/ButtonGrapes"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#9E2B2B"
+                android:contentDescription="@string/grapes_name"
+                android:onClick="Selection"
+                android:src="@drawable/uvas" />
+
+            <ImageButton
+                android:id="@+id/ButtonBlackberries"
+                android:layout_width="match_parent"
+                android:layout_height="100dp"
+                android:background="#EAD151"
+                android:contentDescription="@string/blackBerries_name"
+                android:onClick="Selection"
+                android:src="@drawable/zarzamora" />
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>
