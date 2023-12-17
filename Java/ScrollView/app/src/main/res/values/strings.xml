@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">ScrollView</string>
+    <string name="app_name">FruitVegetables</string>
     <string name="banana_name">Banana</string>
     <string name="cherries_name">Cherries</string>
     <string name="raspberries_name">Raspberries</string>
