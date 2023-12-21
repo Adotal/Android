@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sounds_Audio</string>
+    <string name="shortaudio_name">Short Audio</string>
+    <string name="longaudio_name">Long Audio</string>
+</resources>
